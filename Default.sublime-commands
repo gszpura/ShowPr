@@ -1,0 +1,6 @@
+[
+    {
+            "caption": "Bitbucket: Show PR",
+            "command": "show_pr"
+    }
+]
